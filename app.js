@@ -6,3 +6,4 @@ e.preventDefault();
   userTextElement.val("");
 })
 })
+
